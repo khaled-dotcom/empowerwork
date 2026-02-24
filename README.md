@@ -166,4 +166,4 @@ This project is proprietary software.
 
 For issues and questions, please refer to the documentation in the `docs/` folder.
 
-For academic or technical inquiries about this graduation project, please contact the project team (Khaled Ghalwash, Mohamed Gamal, Mohamed Hassen, Mazen, Nadeen). 
+For academic or technical inquiries about this graduation project, please contact the project team (Khaled Ghalwash). 
